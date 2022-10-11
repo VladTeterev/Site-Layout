@@ -1472,5 +1472,5 @@ input[type=submit] {color: #FFFFFF;}
 
     @media screen and (max-width: 1300px) {
         .footer {display: none;}
-        body {height: 5590px;}
+         body {height: 5600px;}
     }
